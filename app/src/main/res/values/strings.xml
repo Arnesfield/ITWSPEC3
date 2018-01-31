@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MP7</string>
+    <string name="title_activity_login">Item Cart MP7</string>
+    <string name="title_activity_item_cart">Item Cart</string>
+    <string name="title_activity_view_item">View Item Info</string>
+
+    <string name="lbl_item_id">Item ID</string>
+    <string name="lbl_item_name">Name</string>
+    <string name="lbl_item_desc">Description</string>
+    <string name="lbl_item_price">Price</string>
+    <string name="lbl_item_rating">Item Rating</string>
+
+    <string name="lbl_total">Total: </string>
+
+    <string name="lbl_login">Login</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="action_set_quantity">Set Quantity</string>
+    <string name="action_view">View Item Info</string>
+    <string name="action_remove">Remove Item</string>
+    <string name="action_add">Add to Cart</string>
+
+    <string name="msg_cart_empty">You have no items :-(</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+</resources>
