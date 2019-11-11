@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MP10_Cayle</string>
+    <string name="title_activity_chart">ChartActivity</string>
+
+    <string name="lbl_chart">Chart</string>
+
+    <string name="msg_empty">You have an empty list :-(</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
