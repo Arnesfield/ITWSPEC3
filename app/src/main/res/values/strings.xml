@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MP8</string>
+    <string name="title_activity_action">Books</string>
+    <string name="title_activity_view">View Book</string>
+
+    <string name="msg_empty">You have no books.</string>
+
+    <string name="action_add">Add Book</string>
+    <string name="action_view">View</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="lbl_id">Book ID</string>
+    <string name="lbl_name">Book Name</string>
+    <string name="lbl_desc">Description</string>
+    <string name="lbl_price">Price</string>
+</resources>
