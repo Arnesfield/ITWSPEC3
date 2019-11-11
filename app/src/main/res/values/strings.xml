@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidAppFive</string>
+
+    <string name="txt_msg">Enter some text</string>
+    <string name="txt_for_msg">Your message is:</string>
+    <string name="txt_click_msg">Do long click on this</string>
+
+    <string name="btn_next">Next Activity</string>
+    <string name="btn_back">Back</string>
+
+    <string name="action_info">Info</string>
+    <string name="action_email">Email</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+</resources>
