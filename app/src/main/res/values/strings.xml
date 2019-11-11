@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MP8</string>
+    <string name="title_activity_action">Item</string>
+    <string name="title_activity_view">View Item</string>
+
+    <string name="msg_empty">You have no items :-(</string>
+
+    <string name="action_add">Add Item</string>
+    <string name="action_view">View</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="lbl_id">Item ID</string>
+    <string name="lbl_name">Item Name</string>
+    <string name="lbl_desc">Description</string>
+    <string name="lbl_price">Price</string>
+</resources>
