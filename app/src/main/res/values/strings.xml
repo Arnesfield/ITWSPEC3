@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MP11_Cayle</string>
+
+    <string name="lbl_total">TOTAL: 0</string>
+    <string name="roll">Roll</string>
+    <string name="stop">Stop</string>
+</resources>

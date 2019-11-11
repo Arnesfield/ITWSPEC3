@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/cherry"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/berry"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/strawberry"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/coin"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/diamond"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/seven"
+        android:duration="100" />
+</animation-list>
