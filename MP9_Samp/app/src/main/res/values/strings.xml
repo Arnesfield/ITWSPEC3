@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MP9_Samp</string>
+    <string name="title_activity_update">UpdateActivity</string>
+
+    <string name="hint_id">ID</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_price">Price</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
