@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MP10_Samp</string>
+    <string name="title_activity_view">ViewActivity</string>
+
+    <string name="hint_id">ID</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_price">Price</string>
+    <string name="title_activity_chart">ChartActivity</string>
+</resources>
